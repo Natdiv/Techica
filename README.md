@@ -5,10 +5,9 @@ Site officiel de présentation de l'entreprise Techica Africa située à Lubumba
 
 ## Captures d'images ecran mobile
 
-|   |  |  |  |
 | ------------- | ------------- | ------------- | ------------- |
-| ![This is an image](captures/capture_01.png)  | ![This is an image](captures/capture_02.png)  | ![This is an image](captures/capture_07.png) | ![This is an image](captures/capture_07.png) |
-| ![This is an image](captures/capture_03.png)  | ![This is an image](captures/capture_01_.png)  | ![This is an image](captures/capture_08.png) | ![This is an image](captures/capture_08.png) |
+| ![This is an image](captures/capture_01.png)  | ![This is an image](captures/capture_02.png)  | ![This is an image](captures/capture_03.png) | ![This is an image](captures/capture_04.png) |
+| ![This is an image](captures/capture_05.png)  | ![This is an image](captures/capture_06_.png)  | ![This is an image](captures/capture_07.png) | ![This is an image](captures/capture_08.png) |
 
 
 ## Développeur
