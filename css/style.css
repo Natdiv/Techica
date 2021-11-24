@@ -280,7 +280,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
         display: table;
         width: 100%;
         padding: 0;
-        background: url(../img/vp/11.jpg);
+        background: url(../img/vp/11.jpg) left;
         background-color: #e5e5e5;
         -webkt-filter: blur(0px);
         filter: blur(0px);
